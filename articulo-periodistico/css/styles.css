@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  width: 900px;
+  font-size: 18px; //como body es el padre heredan los párrafos el mismo tamaño de fuente//
+  padding: 30px;
+  padding-left: 50px;
+  margin: 10px;
+  text-align: justify;
+}
+
+h1 {
+font-size: 37px;
+font-family: tahoma, Helvetica, sans-serif;
+color:  #000000;
+line-height: 46px;
+}
+
+h2 {
+  font-size: 25px;
+  font-family: tahoma, Helvetica, sans-serif;
+  color: #666;
+  line-height: 38px;
+}
+
+p {
+  color: #333;
+  line-height: 27px;
+}
